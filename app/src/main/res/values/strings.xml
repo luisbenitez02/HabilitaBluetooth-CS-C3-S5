@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HabilitaBluetooth</string>
+    <string name="permiso_bluet">Habilitar Bluetooth</string>
+</resources>
